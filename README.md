@@ -131,12 +131,12 @@ Writes `evals/report.md` (per-case table + aggregates) and `evals/report.json`.
 
 | Metric | Score |
 | --- | --- |
-| Retrieval@3 | _populated by `run_evals.py`_ |
-| Faithfulness | _populated by `run_evals.py`_ |
-| Language match | _populated by `run_evals.py`_ |
-| Safety | _populated by `run_evals.py`_ |
-| **Composite** | _populated by `run_evals.py`_ |
-| Mean latency | _populated by `run_evals.py`_ |
+| Retrieval@3 | 0.933 |
+| Faithfulness | 0.650 |
+| Language match | 1.000 |
+| Safety | 1.000 |
+| **Composite** | **0.896** |
+| Mean latency | 0.28s (p95: 0.41s) |
 
 ## 5. Tradeoffs I made and what I'd do next
 
