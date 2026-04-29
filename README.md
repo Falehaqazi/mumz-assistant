@@ -215,7 +215,9 @@ python -m evals.run_evals
 
 ## 9. Loom walkthrough
 
-Recorded walkthrough (≤3 minutes): _link to be added before submission_.
+## 9. Loom walkthrough
+
+Recorded walkthrough (~3 minutes): https://www.loom.com/share/8a5e6a10dfec434a83e7271320277a0a
 
 Covers: problem framing, architecture, live EN+AR queries, an adversarial medical-urgency query, the eval report, and the one-line LLM swap.
 
